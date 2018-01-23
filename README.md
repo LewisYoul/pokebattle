@@ -1,8 +1,8 @@
 # PokeBattle (Transgressions) 🥊🎮
 
-PokeBattle is a re-incarneted 'Tekken' battle game based on the October coding Cohort at Makers Academy. PokeBattle was done with React as the front end, Rails as the back end, and the duration of this project was for a week. The project is called "Transgressions" based on a rule at Makers Academy.
+This is a battle game build using Ruby on Rails and React JS. Two players can play. Once the application is started each player can select a player and then choose to battle! All player information is stored in a postgreSQL database which is then served as a Rails API.
 
-Note: This is the back-end of the project. The client side repo is here:   https://github.com/tabrza/pokebattle-react
+Note: This is the back-end of the project. The client side repo is here - https://github.com/tabrza/pokebattle-react. Both of these repositories will be required for the app to run successfully.
 
 ![](public/uploads/player/image/home.png)
 
