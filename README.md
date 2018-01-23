@@ -2,7 +2,7 @@
 
 [Task](#task) | [Approach](#approach) | [Challenges](#challenges) | [Run the App](#demo) | [Technologies](#technologies)
 
-This is a battle game build using Ruby on Rails and React JS. Two players can play. Once the application is started each player can select a player and then choose to battle! All player information is stored in a postgreSQL database which is then served as a Rails API.
+This is a battle game built using Ruby on Rails and React JS. Two players can play. Once the application is started each player can select a player and then choose to battle! All player information is stored in a postgreSQL database which is then served as a Rails API.
 
 Note: This is the back-end of the project. The client side repo is here - https://github.com/tabrza/pokebattle-react. Both of these repositories will be required for the app to run successfully.
 
@@ -87,21 +87,11 @@ bin/rails s -p 4000
 
 * Adding relationships to our models using rails and having them display correctly through the API.
 * If time had allowed we would like to have implemented the ability for a user to sign up/in/out as well as to create their own character.
+* For me personally, my greatest difficulty with this project has been testing - The use of the rails framework has made when and what to test far less clear than when simply using vanilla Ruby. When time permits I will be returning to this work to address this.
 
-### Technologies
+## Technologies
 
-Front-End: React
- (Gems)
- - React-Sound
- - React-Toggle-Display
-
-Back-End: Ruby On Rails
- - Responders
-
-
-
-
-
+This part of the application was built entirely with Ruby on Rails.
 
 ## Team Members:  
 
