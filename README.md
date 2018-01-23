@@ -4,7 +4,7 @@
 
 This is a battle game built using Ruby on Rails and React JS. Two players can play. Once the application is started each player can select a player and then choose to battle! All player information is stored in a postgreSQL database which is then served as a Rails API.
 
-Note: This is the back-end of the project. The client side repo is here - https://github.com/tabrza/pokebattle-react. Both of these repositories will be required for the app to run successfully.
+Note: This is the back-end of the project. The client side repo is [here](https://github.com/tabrza/pokebattle-react). Both of these repositories will be required for the app to run successfully.
 
 ## <a name="task">Task</a>
 
