@@ -4,7 +4,7 @@
 
 This is a battle game built using Ruby on Rails and React JS. Two players can play. Once the application is started each player can select a player and then choose to battle! All player information is stored in a postgreSQL database which is then served as a Rails API.
 
-Note: This is the back-end of the project. The client side repo is [here](https://github.com/tabrza/pokebattle-react). Both of these repositories will be required for the app to run successfully.
+Note: This is the back-end of the project. The client side repo is [here](https://github.com/LewisYoul/pokebattle-react). Both of these repositories will be required for the app to run successfully.
 
 ## <a name="task">Task</a>
 
@@ -57,7 +57,7 @@ Once you have completed these steps to you be able to head over to the client-si
 
 1. Clone this repository
 ```
-git clone https://github.com/LewisYoul/pokebattle.git
+git clone https://github.com/LewisYoul/transgression-battle-api
 ```
 
 2.  Navigate into the project directory
@@ -81,7 +81,7 @@ bin/rails rake db:setup
 bin/rails s -p 4000
 ```
 
-7. Now navigate [here](https://github.com/tabrza/pokebattle-react) to get started with the client-side repo!
+7. Now navigate [here](https://github.com/LewisYoul/pokebattle-react) to get started with the client-side repo!
 
 ## <a name="challenges">Challenges</a>
 
