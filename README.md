@@ -1,16 +1,16 @@
 # Transgressions Battle - Rails API
 
-[Task](#task) | [Approach](#approach) | [Challenges](#challenges) | [Run the App](#demo) | [Technologies](#technologies)
+[Task](#task) | [Approach](#approach) | [Challenges](#challenges) | [Run the App](#run) | [Technologies](#technologies) | [Team](#team)
 
 This is a battle game built using Ruby on Rails and React JS. Two players can play. Once the application is started each player can select a player and then choose to battle! All player information is stored in a postgreSQL database which is then served as a Rails API.
 
 Note: This is the back-end of the project. The client side repo is here - https://github.com/tabrza/pokebattle-react. Both of these repositories will be required for the app to run successfully.
 
-## Task
+## <a name="task">Task</a>
 
 This application is the product of the first unguided group project in week 9 of Makers Academy. After some discussion we decided that we wanted to build a game that utilised the full stack. For this project we also chose to use a brand new technology (to us) - React JS. The database is handled with PostgreSQL, it is served via a Rails API and the front end UI/UX is constructed using React JS.
 
-## Approach
+## <a name="approach">Approach</a>
 
 We wanted to use this project as an opportunity to consolidate the knowledge we had gained over the first two months at Makers Academy. It was seen as an opportunity to build a Ruby on Rails API from scratch using PostgreSQL and then use the data served from it in a dynamic way using React. This allowed us to practice using the Rails infrastructure and the MVC pattern.
 
@@ -50,7 +50,7 @@ Following the completion of the MVP we used stand ups and retros to discuss the 
 
 ![](public/uploads/player/image/home.png)
 
-## Run the App
+## <a name="run">Run the App</a>
 
 The following covers the necessary steps for starting up the back-end Rails server for the Transgressions Battle game.
 Once you have completed these steps to you be able to head over to the client-side repo [here](https://github.com/tabrza/pokebattle-react) and follow the necessary steps to start playing the game!
@@ -83,17 +83,17 @@ bin/rails s -p 4000
 
 7. Now navigate [here](https://github.com/tabrza/pokebattle-react) to get started with the client-side repo!
 
-## Challenges
+## <a name="challenges">Challenges</a>
 
 * Adding relationships to our models using rails and having them display correctly through the API.
 * If time had allowed we would like to have implemented the ability for a user to sign up/in/out as well as to create their own character.
 * For me personally, my greatest difficulty with this project has been testing - The use of the rails framework has made when and what to test far less clear than when simply using vanilla Ruby. When time permits I will be returning to this work to address this.
 
-## Technologies
+## <a name="technologies">Technologies</a>
 
 This part of the application was built entirely with Ruby on Rails.
 
-## Team Members:  
+## <a name="team">Team</a>
 
 - 🐿 Cristhian Da Silva (https://github.com/cristhiandas)
 - 🐱 Dania Mah (https://github.com/thatdania)
