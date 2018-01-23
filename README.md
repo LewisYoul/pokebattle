@@ -1,8 +1,14 @@
-# PokeBattle (Transgressions) 🥊🎮
+# Transgressions Battle - Rails API
+
+[Task](#task) | [Approach](#approach) | [Struggles](#struggles) | [Run the App](#demo) | [Technologies](#technologies)
 
 This is a battle game build using Ruby on Rails and React JS. Two players can play. Once the application is started each player can select a player and then choose to battle! All player information is stored in a postgreSQL database which is then served as a Rails API.
 
 Note: This is the back-end of the project. The client side repo is here - https://github.com/tabrza/pokebattle-react. Both of these repositories will be required for the app to run successfully.
+
+# Task
+
+This application is the product of the first unguided group project in week 9 of Makers Academy. After some discussion we decided that we wanted to build a game that utilised the full stack. For this project we also chose to use a brand new technology (to us) - React JS. The database is handled with PostgreSQL, it is served via a Rails API and the front end UI/UX is constructed using React JS.
 
 ![](public/uploads/player/image/home.png)
 
